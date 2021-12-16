@@ -1,16 +1,16 @@
-### Hi there 👋
+## ¡Hola! 👋
+Soy Gabriel Méndez, futuro ingeniero informático con 16 años y mucho interés por el mundo de la informática 👨‍💻
+Estudio en la UCAB Guayana, esperando desarrollar mis conocimientos con vistas al futuro 🔰
 
-<!--
-**gabrielmj23/gabrielmj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conocimientos 🧠
+- C/C++ intermedio
+- Git intermedio
+- Python intermedio
+- HTML, CSS y JavaScript bajo
 
-Here are some ideas to get you started:
+## Intereses 🔎
+- Ciberseguridad
+- Desarrollo web
+- Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍩
