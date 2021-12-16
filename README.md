@@ -1,5 +1,6 @@
 ## ¡Hola! 👋
 Soy Gabriel Méndez, futuro ingeniero informático con 16 años y mucho interés por el mundo de la informática 👨‍💻
+
 Estudio en la UCAB Guayana, esperando desarrollar mis conocimientos con vistas al futuro 🔰
 
 ## Conocimientos 🧠
