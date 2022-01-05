@@ -11,7 +11,7 @@ Estudio en la UCAB Guayana, esperando desarrollar mis conocimientos con vistas a
 
 ## Intereses 🔎
 - Ciberseguridad
-- Desarrollo web
+- Desarrollo web (Backend)
 - Blockchain
 
 ## 🍩
