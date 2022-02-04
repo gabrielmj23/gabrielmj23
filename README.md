@@ -1,17 +1,15 @@
 ## ¡Hola! 👋
-Soy Gabriel Méndez, futuro ingeniero informático con 17 años y mucho interés por el mundo de la informática 👨‍💻
+Soy Gabriel Méndez, futuro ingeniero informático con 17 años e interés por el mundo de la informática 👨‍💻
 
-Estudio en la UCAB Guayana, esperando desarrollar mis conocimientos con vistas al futuro 🔰
+Estudio en la UCAB Guayana 🔰
 
 ## Conocimientos 🧠
-- C/C++ intermedio
-- Git intermedio
-- Python intermedio
-- HTML, CSS y JavaScript bajo
+- C/C++
+- Python
+- HTML, CSS y JavaScript
 
 ## Intereses 🔎
 - Ciberseguridad
 - Desarrollo web (Backend)
-- Blockchain
 
-## 🍩
+## 🍩👍🏻
