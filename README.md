@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Méndez
+# I'm Gabriel Méndez
 
 <!-- Contact links -->
 <p align="left">
@@ -12,9 +12,9 @@
 
 <!-- Personal info -->
 ## About me 📝
-I'm a Computer Science student at UCAB Guayana in Venezuela, with experience in competitive programming and backend web development 👨🏻‍💻
+I'm a Computer Science student at UCAB Guayana - Venezuela, with experience in competitive programming and web development 👨🏻‍💻
 
-My interests right now are web development and cybersecurity, you may find many project in my profile as I learn! 🎓
+My interests right now are web development and cybersecurity, you may find many projects in my profile as I learn 🎓
 
 <!-- Technologies -->
 ## Technologies I know or study 🔧
