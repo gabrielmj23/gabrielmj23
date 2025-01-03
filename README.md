@@ -15,4 +15,9 @@ I'm a Computer Science student at UCAB Guayana in Venezuela, with experience in 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmj23&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/gabrielmj23/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmj23&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmj23&layout=compact&size_weight=0.5&count_weight=0.5" />
+</a>
