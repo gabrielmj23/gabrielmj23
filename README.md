@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">Currently <b>Fullstack Dev @ Cita Médica</b> 💻</p>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
