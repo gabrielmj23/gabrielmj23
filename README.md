@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at UCAB Guayana in Venezuela, with experience in web development 👨🏻‍💻</p>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -14,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,17 +24,12 @@
 
 ###
 
+<img width="530" height="290" alt="hachiware-gaming" src="https://github.com/user-attachments/assets/91349e12-d083-4091-b303-6045d2e4e2f5" />
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmj23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielmj23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmj23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&size_weight=0.5&count_weight=0.5" height="160" alt="languages graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmj23/gabrielmj23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmj23/gabrielmj23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielmj23/gabrielmj23/output/pacman-contribution-graph.svg">
-</picture>
-
-###
